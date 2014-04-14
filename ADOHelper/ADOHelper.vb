@@ -484,7 +484,6 @@ Public Class ADOHelper
         Return dtSchema
     End Function
 
-
 End Class
 
 'USE [Chinook]
@@ -500,5 +499,3 @@ End Class
 '	SELECT * FROM CUSTOMER
 'END
 'GO
-
-
